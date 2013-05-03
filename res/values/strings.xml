@@ -4,5 +4,7 @@
     <string name="app_name">ContenTree</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="my_page">MY PAGE</string>
+    <string name="recently_registered_order">최신등록순</string>
 
 </resources>
