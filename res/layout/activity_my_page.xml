@@ -93,10 +93,10 @@
                             style="?android:attr/ratingBarStyleSmall"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:background="#33ffffff"
+                            android:background="#88ffffff"
                             android:max="5"
                             android:padding="10dip"
-                            android:rating="4" />
+                            android:rating="5" />
                     </RelativeLayout>
 
                     <LinearLayout
@@ -139,7 +139,7 @@
                             style="?android:attr/ratingBarStyleSmall"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:background="#33ffffff"
+                            android:background="#88ffffff"
                             android:max="5"
                             android:padding="10dip"
                             android:rating="4" />
@@ -155,7 +155,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:background="@drawable/btn_seeall"
-                            android:src="@drawable/download" />
+                            android:src="@drawable/play_over_video" />
 
                         <ImageButton
                             android:layout_width="fill_parent"
@@ -185,7 +185,7 @@
                             style="?android:attr/ratingBarStyleSmall"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:background="#33ffffff"
+                            android:background="#88ffffff"
                             android:max="5"
                             android:padding="10dip"
                             android:rating="4" />
@@ -231,10 +231,10 @@
                             style="?android:attr/ratingBarStyleSmall"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:background="#33ffffff"
+                            android:background="#88ffffff"
                             android:max="5"
                             android:padding="10dip"
-                            android:rating="4" />
+                            android:rating="3" />
                     </RelativeLayout>
 
                     <LinearLayout
@@ -247,7 +247,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:background="@drawable/btn_seeall"
-                            android:src="@drawable/download" />
+                            android:src="@drawable/play_over_video" />
 
                         <ImageButton
                             android:layout_width="fill_parent"
@@ -277,7 +277,7 @@
                             style="?android:attr/ratingBarStyleSmall"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:background="#33ffffff"
+                            android:background="#88ffffff"
                             android:max="5"
                             android:padding="10dip"
                             android:rating="4" />
@@ -293,7 +293,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:background="@drawable/btn_seeall"
-                            android:src="@drawable/download" />
+                            android:src="@drawable/play_over_video" />
 
                         <ImageButton
                             android:layout_width="fill_parent"
@@ -329,10 +329,10 @@
                             style="?android:attr/ratingBarStyleSmall"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:background="#33ffffff"
+                            android:background="#88ffffff"
                             android:max="5"
                             android:padding="10dip"
-                            android:rating="4" />
+                            android:rating="3" />
                     </RelativeLayout>
 
                     <LinearLayout
@@ -375,10 +375,10 @@
                             style="?android:attr/ratingBarStyleSmall"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:background="#33ffffff"
+                            android:background="#88ffffff"
                             android:max="5"
                             android:padding="10dip"
-                            android:rating="4" />
+                            android:rating="5" />
                     </RelativeLayout>
 
                     <LinearLayout
@@ -391,7 +391,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:background="@drawable/btn_seeall"
-                            android:src="@drawable/download" />
+                            android:src="@drawable/play_over_video" />
 
                         <ImageButton
                             android:layout_width="fill_parent"
@@ -421,10 +421,10 @@
                             style="?android:attr/ratingBarStyleSmall"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:background="#33ffffff"
+                            android:background="#88ffffff"
                             android:max="5"
                             android:padding="10dip"
-                            android:rating="4" />
+                            android:rating="3" />
                     </RelativeLayout>
 
                     <LinearLayout
@@ -467,7 +467,7 @@
                             style="?android:attr/ratingBarStyleSmall"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:background="#33ffffff"
+                            android:background="#88ffffff"
                             android:max="5"
                             android:padding="10dip"
                             android:rating="4" />
@@ -483,7 +483,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:background="@drawable/btn_seeall"
-                            android:src="@drawable/download" />
+                            android:src="@drawable/play_over_video" />
 
                         <ImageButton
                             android:layout_width="fill_parent"
@@ -513,7 +513,7 @@
                             style="?android:attr/ratingBarStyleSmall"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:background="#33ffffff"
+                            android:background="#88ffffff"
                             android:max="5"
                             android:padding="10dip"
                             android:rating="4" />
@@ -529,7 +529,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:background="@drawable/btn_seeall"
-                            android:src="@drawable/download" />
+                            android:src="@drawable/play_over_video" />
 
                         <ImageButton
                             android:layout_width="fill_parent"

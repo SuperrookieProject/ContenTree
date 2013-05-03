@@ -1,8 +1,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- 
-    <item android:id="@+id/menu_settings"
-        android:title="@string/menu_settings"
+     
+    <item android:id="@+id/menu_video_community"
+        android:title="@string/menu_video_community"
         android:orderInCategory="100"
-        android:showAsAction="never" />
-         -->
+        android:showAsAction="always" />
+         
 </menu>
