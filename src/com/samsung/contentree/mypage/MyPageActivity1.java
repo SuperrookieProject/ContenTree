@@ -14,15 +14,14 @@ import android.widget.Spinner;
 import com.samsung.contentree.R;
 import com.samsung.contentree.community.CommunityActivity;
 
-public class MyPageActivity extends Activity {
+public class MyPageActivity1 extends Activity {
 
 
 
 	@Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_my_page);
-        
+        setContentView(R.layout.activity_my_page1);
 
 		//setActionbar
 		getActionBar().setDisplayOptions(ActionBar.DISPLAY_HOME_AS_UP|ActionBar.DISPLAY_SHOW_HOME|ActionBar.DISPLAY_SHOW_TITLE);
@@ -68,6 +67,7 @@ public class MyPageActivity extends Activity {
 		
 		return super.onOptionsItemSelected(item);
 	}
+	
     protected void goToVideoCommunity(){
     	Intent intent = new Intent(this,CommunityActivity.class);
     	startActivity(intent);

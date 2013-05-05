@@ -7,5 +7,12 @@
     <string name="menu_settings">Settings</string>
     <string name="my_page">MY PAGE</string>
     <string name="recently_registered_order">최신등록순</string>
+    
+    <string name="title_video_community">Video community</string>
+    <string name="community_subtitle_top_movies">Top movies</string>
+    <string name="community_subtitle_top_users">Top users</string>
+    <string name="community_subtitle_recommended_movies">Movie 추천</string>
+    <string name="community_subtitle_recommended_users">User 추천</string>
+    <string name="community_subtitle_movie_rate">이 영화는 몇점?</string>
 
 </resources>

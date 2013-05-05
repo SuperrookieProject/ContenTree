@@ -10,22 +10,38 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/tree_icon"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme"
+        android:name="com.samsung.contentree.application.App"
+         >
         <activity
             android:name="com.samsung.contentree.MainActivity"
             android:label="@string/app_name" >
-            
         </activity>
+        
         <activity
             android:name="com.samsung.contentree.mypage.MyPageActivity"
             android:label="@string/app_name"
-            android:logo="@drawable/ic_btn_more" >
+            android:logo="@drawable/ic_btn_more"
+            android:screenOrientation="landscape" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.samsung.contentree.mypage.MyPageActivity1"
+            android:label="@string/app_name"
+            android:logo="@drawable/ic_btn_more"
+            android:screenOrientation="landscape" >
+        </activity>
+        
+        <activity
+            android:name="com.samsung.contentree.community.CommunityActivity"
+            android:label="@string/title_video_community"
+            android:logo="@drawable/tree_icon">
         </activity>
     </application>
 
