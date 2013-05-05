@@ -4,4 +4,8 @@
     <color name="light_gray">#aaaaaa</color>
     <color name="background">#c7c7c7</color>
     <color name="black">#000000</color>
+    
+    <color name="color3">#303030</color>
+    <color name="color17">#191919</color>
+    
 </resources>
